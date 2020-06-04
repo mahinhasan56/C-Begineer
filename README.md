@@ -3,9 +3,13 @@
 This is C++ Project folder wher there are sample code of
 
 1. Array manipulation
+
 2.Bitwise calculation
+
 3.conditional operator
+
 4.even odd calculation
+
 5.grade point calculation
 6.leap year finding
 7.letter grade measuring
