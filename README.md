@@ -61,3 +61,18 @@ This is C++ Project folder wher there are sample code of
 29.Even odd calculation
 
 30.Main file of greetings
+
+
+
+
+Documentation:
+
+1.Install GCC
+
+2.Install codeblocks/visual studio
+
+3.Install Git for pulling code
+
+4.Copy & Paste code
+
+5.Run Program
